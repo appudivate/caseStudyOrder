@@ -21,3 +21,4 @@ C:\Users\HP\source\repos\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.genruntimec
 C:\Users\HP\source\repos\OrderItem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\HP\source\repos\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.CopyComplete
 C:\Users\HP\source\repos\OrderItem\obj\Debug\netcoreapp3.1\OrderItem.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\OrderItem\bin\Debug\netcoreapp3.1\OrderItem.yml
